@@ -1,0 +1,58 @@
+.header {
+  background: #b1a296;
+  width: 100%;
+  min-height: 80px;
+  color: #2c4242;
+  position: fixed;
+  top: 0;
+  margin: 0 auto;
+  box-shadow: 0 5px 5px darkslategrey;
+  z-index: 1000;
+  border-top: 5px solid darkslategrey;
+}
+
+.header ul {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.header li {
+  display: inline-block;
+  width: 33%;
+  padding-top: 20px;
+  font-family: "Proza Libre", sans-serif;
+}
+
+.title {
+  font-family: "Courgette", cursive;
+}
+
+#score {
+  font-size: 1.2em;
+}
+.instruction {
+  font-size: 1.2em;
+  text-align: center;
+  font-family: "Proza Libre", sans-serif;
+}
+
+.instructionb {
+  color: #2c4242;
+  font-size: 1.2em;
+  text-align: center;
+  font-family: "Proza Libre", sans-serif;
+  font-weight: bold;
+}
+
+@media (max-width: 700px) {
+  .header li {
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding-top: 0;
+  }
+}
