@@ -5,7 +5,7 @@ A React Memory Game Application ---  using  React javascript library, the applic
 
 Play **Wonders Clicky Game** [here](https://lit-plateau-35495.herokuapp.com/).
 
- ![Wonders Landing Page](wonders/public/Wonders.png) 
+ ![Wonders Landing Page](client/public/wonders.png) 
  
 
 ### Instructions
