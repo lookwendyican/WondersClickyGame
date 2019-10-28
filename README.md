@@ -13,9 +13,9 @@ Play **Wonders Clicky Game** [here](https://lit-plateau-35495.herokuapp.com/).
 
 - Each time the user clicks on an image, the pictures are shuffled. The user's task is to click on each image once and **remember from memory** which one s/he clicked on.  
 
-- The application keeps track of the user's score. Each time the user clicks on an image for the first time in the current round, their Score score is incremented
+- The application keeps track of the user's Score. Each time the user clicks on an image for the first time in the current round, their Score score is incremented
 
-- If the user clicks on an image they're already clicked on in the current round, their Score is reset to 0.
+- If the user clicks on an image they have already clicked on in the current round, their Score is reset to 0.
 
 - The application keeps track of the user's Top Score, and updates it when the user achieves a new Top Score.
 
@@ -23,6 +23,8 @@ Play **Wonders Clicky Game** [here](https://lit-plateau-35495.herokuapp.com/).
 * React JavaScript Library
 * Bootstrap CSS
 * Animate CSS
+* Javascript
+* JSX
  
 ### License
 Copyright 2019 Wendy Alers | UCF Coding Boot Camp
